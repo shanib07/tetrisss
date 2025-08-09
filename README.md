@@ -26,6 +26,13 @@ Just solve the math problems correctly and not let the block reach the uppermost
 For Software:
 - HTML, Javascript
 
+- screen shots
+- 
+<img width="1512" height="982" alt="Screenshot 2025-08-09 at 7 18 11 AM" src="https://github.com/user-attachments/assets/2f7b6e4e-78e6-485c-a1c3-88568a3e7bb3" />
+
+<img width="1512" height="982" alt="Screenshot 2025-08-09 at 7 18 18 AM" src="https://github.com/user-attachments/assets/da5a6fb1-a48c-42af-a536-02994267daf3" />
+
+
 
 
 ---
