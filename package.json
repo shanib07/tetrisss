@@ -1,0 +1,16 @@
+{
+  "name": "tetris-summer-meltdown",
+  "version": "1.0.0",
+  "description": "A Tetris game where blocks melt and winning is impossible",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["tetris", "game", "melting", "physics"],
+  "author": "",
+  "license": "MIT"
+}
