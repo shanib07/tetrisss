@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Impossible Tetris 🎯
 
 
 ## Basic Details
@@ -13,7 +13,7 @@
 - Member 2: Zaheem Muhammed - LBSCEK
 
 ### Project Description
-A normal tetris game with math problems with each block.
+A normal tetris game with math problems with each block.Each block comes with a math problem which when solved correctly, Let you with another block. If answered wrong, the block still comes but the whole line of block is filled.Each wrong answer fills one line until the block reaches the top part. 
 
 ### The Problem (that doesn't exist)
 Solve or complete the tetris game with mathematical skills
